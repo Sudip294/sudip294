@@ -41,7 +41,7 @@ Frontend Developer passionate about building modern web applications <br>
 
 ### ⚙️ Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🛠 Tools
@@ -59,7 +59,7 @@ Frontend Developer passionate about building modern web applications <br>
 # 🌱 Currently Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,nextjs" />
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
 ---
