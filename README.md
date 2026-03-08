@@ -21,9 +21,6 @@ I’m a fresher Front-End Developer with a strong interest in React.js and moder
 ---
 [![](https://visitcount.itsvg.in/api?id=sudip294&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
 **Sudip294/sudip294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
