@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudip</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | JavaScript Lover</h3>
+<h3 align="center">Frontend Developer | Vite + React Js | JavaScript Lover</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
@@ -62,8 +62,8 @@ Frontend Developer passionate about building modern web applications <br>
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
+<!--
 ---
-
 # 🚀 Featured Projects
 
 <p align="center">
@@ -77,6 +77,7 @@ Frontend Developer passionate about building modern web applications <br>
 </a>
 
 </p>
+-->
 
 ---
 
@@ -90,6 +91,7 @@ Frontend Developer passionate about building modern web applications <br>
 
 </p>
 
+<!--
 ---
 
 # 📈 Most Used Languages
@@ -97,6 +99,7 @@ Frontend Developer passionate about building modern web applications <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip294&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+-->
 
 ---
 
@@ -106,6 +109,7 @@ Frontend Developer passionate about building modern web applications <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip294&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<!--
 ---
 
 # 🏆 GitHub Achievements
@@ -115,6 +119,7 @@ Frontend Developer passionate about building modern web applications <br>
 </p>
 
 ---
+-->
 
 # ✨ Random Dev Quote
 
